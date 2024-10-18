@@ -1,0 +1,9 @@
+.product-item {
+    background-color: #fff; 
+    transition: transform 0.2s; 
+  }
+
+  .product-item img {
+    border-radius: 8px; 
+  }
+  
